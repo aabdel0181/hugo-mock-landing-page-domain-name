@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Profit Peak</title>
-    <link>https://aabdel0181.github.io/hugo-mock-landing-page/page/tags/</link>
+    <link>https://aabdel0181.github.io/hugo-mock-landing-page/tags/</link>
     <description>Recent content in Tags on Profit Peak</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>ProfitPeak</copyright>
-    <atom:link href="https://aabdel0181.github.io/hugo-mock-landing-page/page/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://aabdel0181.github.io/hugo-mock-landing-page/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Index</title>
-      <link>https://aabdel0181.github.io/hugo-mock-landing-page/page/tags/index/</link>
+      <link>https://aabdel0181.github.io/hugo-mock-landing-page/tags/index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://aabdel0181.github.io/hugo-mock-landing-page/page/tags/index/</guid>
+      <guid>https://aabdel0181.github.io/hugo-mock-landing-page/tags/index/</guid>
       <description></description>
     </item>
     <item>
       <title>Privacy</title>
-      <link>https://aabdel0181.github.io/hugo-mock-landing-page/page/tags/privacy/</link>
+      <link>https://aabdel0181.github.io/hugo-mock-landing-page/tags/privacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://aabdel0181.github.io/hugo-mock-landing-page/page/tags/privacy/</guid>
+      <guid>https://aabdel0181.github.io/hugo-mock-landing-page/tags/privacy/</guid>
       <description></description>
     </item>
   </channel>
