@@ -1,7 +1,7 @@
 baseURL = 'https://aabdel0181.github.io/hugo-mock-landing-page-autodeployed/'
 title = "Profit Peak"
 author = "Ahmed Abdellah"
-copyright = "ProfitPeak"
+copyright = "Profit Peak"
 
 timeZone = 'Europe/London'
 
