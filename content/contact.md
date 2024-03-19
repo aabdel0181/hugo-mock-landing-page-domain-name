@@ -8,4 +8,5 @@ menu:
 
 # Contact
 
-[Open an issue](https://github.com/filipecarneiro/hugo-bootstrap-theme/issues/new) on GitHub.
+[Open an issue](https://github.com/aabdel0181/hugo-mock-landing-page-autodeployed/issues/new) on GitHub.
+
